@@ -17,7 +17,7 @@ const NavBar = () => {
 							</p>
 						</a>
 						<a
-							href='https://github.com/minhd-nguyen/myJournal'
+							href='https://github.com/minhd-nguyen/myJournals'
 							target='_blank'
 							rel=''
 						>
