@@ -13,7 +13,7 @@ const NavBar = () => {
 						</a>
 						<a href='https://developer.nytimes.com/' target='_blank' rel='open new tab'>
 							<p className='brand-name'>
-								<span className='accent-clr'>NewYork's Times</span>
+								The <span className='accent-clr'>NewYork's Times</span> clone
 							</p>
 						</a>
 						<a
