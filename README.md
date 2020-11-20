@@ -1,4 +1,4 @@
-# Journals app with infinite scrolling using Next.js
+# The NewYork's Times clone with infinite scrolling using Next.js
 ## [myJournals](https://journals.vercel.app/)
 ![Screenshot](https://res.cloudinary.com/djhte2ard/image/upload/v1605832776/myJournals_ejonmm.png)
 
