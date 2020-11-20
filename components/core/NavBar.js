@@ -11,11 +11,11 @@ const NavBar = () => {
 								my<span className='accent-clr'>Journals</span>
 							</p>
 						</a>
-						{/* <a href='https://www.nytimes.com/' target='_blank' rel='open new tab'>
+						<a href='https://developer.nytimes.com/' target='_blank' rel='open new tab'>
 							<p className='brand-name'>
 								<span className='accent-clr'>NewYork's Times</span>
 							</p>
-						</a> */}
+						</a>
 						<a
 							href='https://github.com/minhd-nguyen/myJournal'
 							target='_blank'
