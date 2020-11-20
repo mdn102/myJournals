@@ -3,15 +3,15 @@ const ArticlePrice = ({ value = 50 }) => {
 		if (value >= 75) {
 			return (
 				<React.Fragment>
-					<span className='dollars-icon'>$</span> 999 onwards
+					<span className='dollars-icon'>$</span>13.47 onwards
 				</React.Fragment>
 			);
 		}
 		else if (value > 50 && value < 100) {
 			return (
 				<React.Fragment>
-					<span className='dollars-icon'>$ </span>
-					{value / 50}
+					<span className='dollars-icon'>$</span>
+					{value/50}
 				</React.Fragment>
 			);
 		}
